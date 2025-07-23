@@ -9,10 +9,7 @@ import {
 } from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAZmDfBMB33KPltk5SGKZBqcKc_MFEaPOE",
-  authDomain: "yt-clone-4bf80.firebaseapp.com",
-  projectId: "yt-clone-4bf80",
-  appId: "1:151849945046:web:6617949cd35df4f8e18677",
+  //deleted for security
 };
 
 // Initialize Firebase
